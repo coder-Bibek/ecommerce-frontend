@@ -1,0 +1,52 @@
+.offcanvas {
+  width: 180px;
+  margin-top: 0px;
+  z-index: 99999;
+  background-color: #333a56;
+}
+.offcanvas-section i {
+  font-size: 1.25rem;
+}
+.offcanvas-section label:hover {
+  color: blue;
+  cursor: pointer;
+  width: 100%;
+}
+.mid-section label{
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .offcanvas {
+    width: 150px;
+    background-color: #333a56 !important;
+  }
+  .mytoggle {
+    left: 4% !important;
+    margin-top: 7px !important;
+  } 
+  .offcanvas-body label {
+    font-size: 0.8rem;
+  }
+  .offcanvas-header img{
+    display: none;
+  }
+  .offcanvas-header label{
+    color: white;
+  }
+  .offcanvas-header {
+    /* visibility: hidden; */
+    background-color: #333a56 !important
+  }
+  .offcanvas-body {
+    position: relative;
+    top: -2%;
+  }
+  .navbar-brand {
+    position: relative;
+    left: -9%;
+  }
+  /* .mid-section label{
+    margin-left: 3px;
+  } */
+}

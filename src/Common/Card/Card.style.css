@@ -1,0 +1,18 @@
+.card{
+    width: 100%;
+}
+.card img{
+  width: 100%;
+}
+.cart-down{
+  position: relative;
+  left: 12%;
+}
+.label{
+  position: relative;
+  left: 20%;
+}
+.prod-card:hover{
+  box-shadow: 0px 0px 5px grey;
+  cursor: pointer;
+}

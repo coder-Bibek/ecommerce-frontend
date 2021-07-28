@@ -1,0 +1,47 @@
+.navbar-nav i {
+  font-size: 1.5rem;
+  position: relative;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1111;
+}
+.shop-cart {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  transition: 0.3s;
+}
+.fa-shopping-cart{
+  color: black;
+}
+.mytoggle {
+  color: grey;
+  font-size: 1.5rem;
+  cursor: pointer;
+  position: relative;
+  right: 3%;
+}
+.mycontainer {
+  width: 90%;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.middle-logo{
+  text-decoration: none !important;
+  
+}
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  
+}
+.navbar-nav{
+    position: relative;
+    right: 3%;
+}

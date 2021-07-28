@@ -1,0 +1,50 @@
+[
+    {
+        "brand": "NIKE",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2hvZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "price": "$48",
+        "description": "waterproof and light shoes"
+    },
+    {
+        "brand": "ADDIDAS",
+        "image": "https://media.istockphoto.com/photos/running-shoes-picture-id1249496770?b=1&k=6&m=1249496770&s=170667a&w=0&h=9uttCAghGWpQC9aNxH7B50vsahNUHFL49IpI7J0Mxug=",
+        "price": "$23",
+        "description": "waterproof and foam shoes"
+    },
+    {
+        "brand": "GHARKO",
+        "image": "https://cdn.notonthehighstreet.com/system/product_images/images/001/569/900/original_wicker-basket.jpg",
+        "price": "$15",
+        "description": "light and handmade basket"
+    },
+    {
+        "brand": "ONEPLUS",
+        "image": "https://5.imimg.com/data5/EK/EK/WS/SELLER-93562552/24-inch-smart-led-tv-500x500.jpg",
+        "price": "$1500",
+        "description": "thin led with multiple features"
+    },
+    {
+        "brand": "DINNING",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61IHi71wKNL._SX425_.jpg",
+        "price": "$1150",
+        "description": "clean and 4 sitter table"
+    },
+    {
+        "brand": "PAINTING",
+        "image": "https://images.unsplash.com/photo-1579965342575-16428a7c8881?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFpbnRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "price": "$15000",
+        "description": "beautiful and colorful painting"
+    },
+    {
+        "brand": "VEGETABLES",
+        "image": "https://st.depositphotos.com/1063437/2337/i/600/depositphotos_23373292-stock-photo-groceries-in-wicker-basket-including.jpg",
+        "price": "$750",
+        "description": "fresh and no preservative"
+    },
+    {
+        "brand": "JOHNSON",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyiSyYJG4I8WHbbhqmMt1SJDyk6Jp-l0a_w&usqp=CAU",
+        "price": "$350",
+        "description": "johnson baby powder"
+    }
+]

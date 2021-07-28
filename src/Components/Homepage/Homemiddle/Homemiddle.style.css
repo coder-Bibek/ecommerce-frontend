@@ -1,0 +1,20 @@
+.middleContainer {
+  margin-top: 80px;
+}
+.desc-section {
+  margin-top: -10px;
+}
+.cart-down {
+  /* position: absolute;
+  top: 60%; */
+  transition: 0.3s;
+  font-size: 1.5rem;
+  color: grey;
+}
+.cart-down:hover {
+  cursor: pointer;
+  color: navy;
+}
+strong{
+    left: 3%;
+}

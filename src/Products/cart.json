@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "VEGETABLES",
+        "image": "https://st.depositphotos.com/1063437/2337/i/600/depositphotos_23373292-stock-photo-groceries-in-wicker-basket-including.jpg",
+        "price": "$750",
+        "description": "fresh and no preservative"
+    },
+    {
+        "brand": "JOHNSON",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyiSyYJG4I8WHbbhqmMt1SJDyk6Jp-l0a_w&usqp=CAU",
+        "price": "$350",
+        "description": "johnson baby powder"
+    }
+]
